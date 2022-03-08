@@ -1,1 +1,3 @@
 #edit file for commands in git
+
+1.Git setup for remote ssh
